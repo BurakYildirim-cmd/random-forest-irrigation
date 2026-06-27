@@ -1,4 +1,4 @@
-## Installation
+## 1. Installation
 ```bash
 git clone https://github.com/BurakYildirim-cmd/random-forest-irrigation.git
 cd tomato-irrigation-RF
