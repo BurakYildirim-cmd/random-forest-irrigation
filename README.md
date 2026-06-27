@@ -10,14 +10,6 @@ This project predicts irrigation requirements in tomato cultivation using IoT se
 
 The model estimates the amount of water required and classifies whether irrigation is needed based on environmental and soil measurements.
 
-## Main Features
-1. Feature engineering
-2. Time-based train/validation/test split
-3. Random Forest Regressor
-4. Hyperparameter tuning
-5. Threshold optimization
-6. Performance evaluation using RMSE, R2, Precision, Recall and F1-score
-
 ## Agronomic Standard
 
 Feature selection and environmental variables were guided by the FAO-56 Penman–Monteith evapotranspiration model, which is widely used for irrigation scheduling in agricultural systems.
@@ -30,6 +22,14 @@ This model defines crop water requirements based on:
 4. Wind speed
 
 These parameters are used to estimate reference evapotranspiration (ET0), which forms the basis of irrigation decision-making in smart agriculture systems.
+
+## Main Features
+1. Feature engineering
+2. Time-based train/validation/test split
+3. Random Forest Regressor
+4. Hyperparameter tuning
+5. Threshold optimization
+6. Performance evaluation using RMSE, R2, Precision, Recall and F1-score
 
 ## Dataset
 
