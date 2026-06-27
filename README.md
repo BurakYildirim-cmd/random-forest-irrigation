@@ -1,8 +1,9 @@
 ## Smart Irrigation Prediction using Random Forest
 ## 📌 Table of Contents
 
-- [Installation](#installation)
 - [Dataset](#dataset)
+- [Installation](#installation)
+
 
 ## About the Project
 This project predicts irrigation requirements in tomato cultivation using IoT sensor data and a Random Forest machine learning model.
