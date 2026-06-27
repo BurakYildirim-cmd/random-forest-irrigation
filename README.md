@@ -1,5 +1,5 @@
 ## Smart Irrigation Prediction using Random Forest
-## 📌 Table of Contents
+## Table of Contents
 
 - [Dataset](#dataset)
 - [Installation](#installation)
