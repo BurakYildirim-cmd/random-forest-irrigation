@@ -23,14 +23,6 @@ This model defines crop water requirements based on:
 
 These parameters are used to estimate reference evapotranspiration (ET0), which forms the basis of irrigation decision-making in smart agriculture systems.
 
-## Main Features
-1. Feature engineering
-2. Time-based train/validation/test split
-3. Random Forest Regressor
-4. Hyperparameter tuning
-5. Threshold optimization
-6. Performance evaluation using RMSE, R2, Precision, Recall and F1-score
-
 ## Dataset
 
 This project uses the dataset:
@@ -63,6 +55,14 @@ This data was used to enrich the dataset with environmental variables such as:
 4. Humidity estimates
 
 The integration helped improve model performance by providing broader climate context for irrigation prediction.
+
+## Main Features
+1. Feature engineering
+2. Time-based train/validation/test split
+3. Random Forest Regressor
+4. Hyperparameter tuning
+5. Threshold optimization
+6. Performance evaluation using RMSE, R2, Precision, Recall and F1-score
 
 ## Installation
 ```bash
