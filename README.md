@@ -3,8 +3,6 @@
 
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [About the Project](#About the Project)
-- [Model Architecture](#model-architecture)
 
 ## About the Project
 This project predicts irrigation requirements in tomato cultivation using IoT sensor data and a Random Forest machine learning model.
