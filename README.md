@@ -65,7 +65,7 @@ This data was used to enrich the dataset with environmental variables such as:
 
 The integration helped improve model performance by providing broader climate context for irrigation prediction.
 
-## 1. Installation
+## Installation
 ```bash
 git clone https://github.com/BurakYildirim-cmd/random-forest-irrigation.git
 cd tomato-irrigation-RF
