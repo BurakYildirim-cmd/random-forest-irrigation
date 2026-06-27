@@ -12,6 +12,19 @@ The model estimates the amount of water required and classifies whether irrigati
 5. Threshold optimization
 6. Performance evaluation using RMSE, R2, Precision, Recall and F1-score
 
+## Agronomic Standard
+
+Feature selection and environmental variables were guided by the FAO-56 Penman–Monteith evapotranspiration model, which is widely used for irrigation scheduling in agricultural systems.
+
+This model defines crop water requirements based on:
+
+1. Temperature
+2. Humidity
+3. Solar radiation
+4. Wind speed
+
+These parameters are used to estimate reference evapotranspiration (ET0), which forms the basis of irrigation decision-making in smart agriculture systems.
+
 ## Dataset
 
 This project uses the dataset:
